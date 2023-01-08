@@ -125,6 +125,6 @@ Note:- Considering that this is a Sample Project, we have used a Generic Servlet
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-for poll scm
+for poll scm.
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
